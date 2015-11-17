@@ -1,0 +1,17 @@
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\MissionControl.exe.config
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\MissionControl.exe
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\MissionControl.pdb
+D:\Src_Android\MissionControl\MissionControl\obj\Debug\MissionControl.csprojResolveAssemblyReference.cache
+D:\Src_Android\MissionControl\MissionControl\obj\Debug\MissionControl.Form1.resources
+D:\Src_Android\MissionControl\MissionControl\obj\Debug\MissionControl.Properties.Resources.resources
+D:\Src_Android\MissionControl\MissionControl\obj\Debug\MissionControl.csproj.GenerateResource.Cache
+D:\Src_Android\MissionControl\MissionControl\obj\Debug\MissionControl.exe
+D:\Src_Android\MissionControl\MissionControl\obj\Debug\MissionControl.pdb
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\GMap.NET.Core.dll
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\GMap.NET.Core.xml
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\Parse.dll
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\Parse.NetFx45.dll
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\Parse.xml
+D:\Src_Android\MissionControl\MissionControl\bin\Debug\Parse.NetFx45.xml

@@ -45,11 +45,11 @@ namespace MissionControl
             GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
 
             gMapControl1.MinZoom = 1;
-            //gMapControl1.MaxZoom = 11;
+            gMapControl1.MaxZoom = 11;
 
             //Map Control
             pictureBox1.Parent = gMapControl1;
-            //gMapControl1.GrayScaleMode = true;
+            gMapControl1.GrayScaleMode = true;
 
             gMapControl1.Zoom = 11;
             
@@ -70,7 +70,7 @@ namespace MissionControl
             var query = ParseObject.GetQuery("GPS");
             query.Limit(QUERY_MAX_TO_SHOW);
             IEnumerable<ParseObject> gpsInfos = await query.FindAsync();
-            if (gpsInfos != null)
+            if (gpsInfos.Count() != 0)
             {
                 gMapControl1.Position = new GMap.NET.PointLatLng(gpsInfos.ElementAt(0).Get<double>(PARSE_COL_NAME_LAT), gpsInfos.ElementAt(0).Get<double>(PARSE_COL_NAME_LON));
                 foreach (ParseObject gpsloc in gpsInfos)
